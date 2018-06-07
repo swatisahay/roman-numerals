@@ -20,7 +20,7 @@ Create a webpage for Roman numerals translator
 Roman numerals based on seven symbols
 
 |symbols|Value|
-|:--------|:-------------:|:--------------:|
+|:--------|:-------------:|
 |I|1|
 |V|5|
 |X|10|
